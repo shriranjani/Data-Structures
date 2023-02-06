@@ -9,5 +9,11 @@
        1) **Static** : Fixed memory size. Easy to access Eg : Array
        2) **Dynamic** : Size is not fixed. Dynamically updated during the run time which can be considered efficient concerning the space compexity Eg : Stack, Queue.
   3) **Non Linear Data Structure** : Data structures where data elements are not placed sequentially or linearly are called non-linear data structures. In a non-linear data structure, we can’t traverse all the elements in a single run. Eg : Trees, Graphs
-  
+
+**Data Structures for interviews**
+The following list shows the data structures topics classified based on priority while preparing for interviews.
+  1) **High Priority** : Arrays, Linked list (singly linked list), Hash table, Strings, Sorting(Quick sort, Merge sort), Searching(Linear, Binary search), Hashing, Time complexity, Space complexity.
+  2) **Medium Priority** : Dynamic Programming, Trees (Binary Search Trees, Tree traversals)
+  3) **Low Priority**  : Heap (min & max), Stack, Queue
+
 
